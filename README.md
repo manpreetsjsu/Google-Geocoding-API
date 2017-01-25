@@ -1,5 +1,7 @@
 # Google-Geocoding-API
 
+The Python program that prompts for a location, contact a web service (Google Geocoding API) and retrieve JSON and parse that data, and retrieve the formatted (correct) address from the JSON.
+
 Geocoding is the process of converting addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates (like latitude 37.423021 and longitude -122.083739), 
 which you can use to place markers on a map, or position the map.
 
